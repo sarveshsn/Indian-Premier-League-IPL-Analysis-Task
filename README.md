@@ -79,4 +79,4 @@ This project offers a comprehensive analysis of the Indian Premier League, revea
 
 ## Author 
 
-Sarvesh Sairam Naik
+- **Sarvesh Sairam Naik**
