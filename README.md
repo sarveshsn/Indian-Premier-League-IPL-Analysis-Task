@@ -1,5 +1,8 @@
 # Indian Premier League (IPL) Analysis Project
 
+![wp2458583](https://github.com/sarveshsn/Indian-Premier-League-IPL-Analysis-Task/assets/93898181/582dc4b2-dad3-4cf8-a953-87c3006872d4)
+
+
 
 ## Introduction
 
