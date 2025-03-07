@@ -82,6 +82,10 @@ The analysis will provide valuable insights into various aspects of the Indian P
 
 This project offers a comprehensive analysis of the Indian Premier League, revealing patterns and trends that have shaped the tournament over the years. By examining match data, player performance, and winning strategies, we gain a deeper understanding of the factors contributing to success in the IPL. The insights gained from this analysis can be leveraged by teams, players, and stakeholders to make informed decisions and enhance their engagement with this popular cricket league.
 
-## Author 
+## License
+This project is open-source and available under the [MIT License](LICENSE).
 
-- **Sarvesh Sairam Naik**
+---
+
+**Author:** Sarvesh Sairam Naik  
+**GitHub Repository:** [GitHub Link](https://github.com/sarveshsn)
